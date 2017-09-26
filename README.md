@@ -36,7 +36,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 The customer segments data is included as a selection of 440 data points collected on data found from clients of a wholesale distributor in Lisbon, Portugal. More information can be found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
 
-Note (m.u.) is shorthand for *monetary units*.
+>Note (m.u.) is shorthand for *monetary units*.
 
 **Features**
 1) `Fresh`: annual spending (m.u.) on fresh products (Continuous); 
